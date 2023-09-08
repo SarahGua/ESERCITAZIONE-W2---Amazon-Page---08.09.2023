@@ -44,7 +44,7 @@ main, header{
 
 #maintitle{
     background-image: url(../images/bg-image.png); 
-    background-repeat: repeat;
+    background-size: cover;
     height: 10em;
     color: white;
     text-align: center;
@@ -72,11 +72,11 @@ h1 + p{
     font: 1em;
     display: inline-block;
     color: #1f7180;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 #find, #shop{
-    padding: 1em 0.5em;
+    padding: 1em 0.5em 0.5em 2.5em;
 }
 
 #uno{
@@ -84,6 +84,7 @@ h1 + p{
     margin: 0 1em;
     margin-top: 2em;
     margin-bottom: 5%;
+    padding-bottom: 2%;
 }
 
 #img-gift{
@@ -99,17 +100,16 @@ h1 + p{
 
 .imgg-one{
     width: 100%;
+    height: 100%;
     margin: 0 1em 1em 0;
     border-radius: 2em;
     box-shadow:  6px 6px 6px #c9c9c9;
 }
 
-#imagine-one{
-    height: 14em;
-}
+
 
 .buy{
-    height: 22em; 
+    height: 20%; 
 }
 
 .img-buy{
@@ -119,12 +119,13 @@ h1 + p{
 
 #play, #shop-game {
     display: inline-block;
-    padding: 0 0.7em;
+    padding: 0 0.5em;
     margin-top: 0.5%;
 }
 
 #shop-game{
     color: #1f7180;
+    font-weight: 600;
 }
 
 #play{
