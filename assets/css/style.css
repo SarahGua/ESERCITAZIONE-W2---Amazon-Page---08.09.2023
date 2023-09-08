@@ -1,0 +1,165 @@
+#logo-alto{
+    background-color: #222f3f;
+    height: 4em;
+}
+
+#logo-amazon1{
+    height: 60%;
+    padding: 1em;
+}
+
+#menu{
+    background-color: #374659;
+    color: white;
+}
+
+.menu1{
+    display: inline-block;
+    margin: 0.6em;
+}
+
+main{
+    background-color: #e9edee;
+
+}
+
+main, header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#toptop{
+    padding: 2em 0;
+}
+#headpart{
+    background-color: #f56600;
+    color: white;
+    text-align: center;
+    height: 2.3em;
+    margin: 0 1em;
+}
+
+#shopall{
+    padding: 0.6em;
+}
+
+#maintitle{
+    background-image: url(../images/bg-image.png); 
+    background-repeat: repeat;
+    height: 10em;
+    color: white;
+    text-align: center;
+    margin: 0 1em;
+}
+
+h1{
+    font-size: 2em;
+    padding-top: 1.3em;
+    font-weight: 500;
+}
+
+h1 + p{
+    font-size: 1.3em;
+    padding-top: 1em;
+    font-weight: 400;
+}
+
+#find{
+    font-size: 1.3em;
+    display: inline-block;
+}
+
+#shop{
+    font: 1em;
+    display: inline-block;
+    color: #1f7180;
+    font-weight: 400;
+}
+
+#find, #shop{
+    padding: 1em 0.5em;
+}
+
+#uno{
+    background-color: white;
+    margin: 0 1em;
+    margin-top: 2em;
+    margin-bottom: 5%;
+}
+
+#img-gift{
+    width: 100%;
+}
+
+.imgg{
+    width: 20%;
+    display: inline-block;
+    padding: 0 2% ;
+}
+
+
+.imgg-one{
+    width: 100%;
+    margin: 0 1em 1em 0;
+    border-radius: 2em;
+}
+
+#imagine-one{
+    height: 14em;
+}
+
+.buy{
+    height: 22em; 
+}
+
+.img-buy{
+    width: 100%;
+    height: 100%;
+}
+
+#play, #shop-game {
+    display: inline-block;
+    padding: 0 0.7em;
+    margin-top: 0.5%;
+}
+
+#shop-game{
+    color: #1f7180;
+}
+
+#play{
+    font-size: 1.2em;
+}
+
+#play-shop-game{
+    text-align: center;
+    
+}
+
+#sect-one{
+    padding-bottom: 2em;
+    margin: 0 1em;
+    text-align: center;
+}
+
+footer > div{
+    background-color: #364759;
+    height: 3em;
+    color: white;
+    text-align: center;
+}
+
+#back-to-top{
+    padding-top: 0.9em;
+    text-decoration: underline;
+}
+
+#foot2{
+    background-color: #222f3f;
+    height: 12em;
+    text-align: center;
+}
+
+#logo-due{
+    width: 10em;
+    padding-top: 5em;
+}
